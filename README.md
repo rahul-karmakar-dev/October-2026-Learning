@@ -10,3 +10,13 @@ Focus areas:
 - Machine Learning
 - Research
 - ML Systems
+
+# Git Practice
+
+Today I learned:
+- repository
+- commit
+- branch 
+- push
+- pull
+- diff
